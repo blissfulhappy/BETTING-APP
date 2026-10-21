@@ -1,0 +1,34 @@
+body{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    background-color: rgb(103, 139, 47);
+
+}
+.happy{
+    background-color: greenyellow;
+    color: #530101;
+    width: 800px;
+
+}
+
+
+
+.maiko{
+    padding: 8%;
+    margin: 5%;
+}
+.jack{
+    width:500%;
+}
+button{
+    color: #1a0cd8;
+    background-color: aqua;
+    border-radius: 8px;
+    border-style: solid
+    
+}
+input{
+    color: #081f0d;
+    background-color: rgb(173, 159, 31);
+}
